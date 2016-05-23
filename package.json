@@ -1,0 +1,27 @@
+{
+  "name": "avail-qwi-explorations",
+  "version": "0.0.1",
+  "description": "Data explorations using the AVAIL qwiAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/availabs/qwiExplorations.git"
+  },
+  "keywords": [
+    "QWI",
+    "Census",
+    "LEHD",
+    "AVAIL"
+  ],
+  "author": "Paul Tomchik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/availabs/qwiExplorations/issues"
+  },
+  "homepage": "https://github.com/availabs/qwiExplorations#readme",
+  "dependencies": {
+  }
+}
