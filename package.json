@@ -23,5 +23,9 @@
   },
   "homepage": "https://github.com/availabs/qwiExplorations#readme",
   "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "lodash": "^4.13.1",
+    "minimist": "^1.2.0",
+    "simple-statistics": "^2.0.0-beta1"
   }
 }
