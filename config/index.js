@@ -1,4 +1,4 @@
 module.exports = {
-  qwiAPI_host : "localhost",
-  qwiAPI_port : "10101",
+  hostname : "169.226.142.15",
+  port : "10101",
 }
